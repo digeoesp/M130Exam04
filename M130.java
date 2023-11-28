@@ -1,5 +1,3 @@
-package week15;
-
 public class M130 {
 	public static void main(String[] args) {
 		System.out.println("x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-");
