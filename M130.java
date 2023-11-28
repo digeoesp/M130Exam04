@@ -1,6 +1,6 @@
 package week15;
 
-public class M130_Fall2023_PerezCuarenta_Jesus {
+public class M130 {
 	public static void main(String[] args) {
 		System.out.println("x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-");
 		System.out.println("Problem 01");
